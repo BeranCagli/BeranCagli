@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Object orieented projects**
 
-- 🌱 I’m currently learning **Go&Docker**
+- 🌱 I’m currently learning **Go & Docker & C# & .Net core**
 
 - 👨‍💻 You can reach my profiles in [https://bento.me/berancagli](https://bento.me/berancagli)
 
